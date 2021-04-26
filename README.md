@@ -1,3 +1,3 @@
-Esto es una prueba para crear repositorios, Hello world
+# EJEMPLO REPOSITORIO
 
-.md= Markdown
+Esto es una prueba para crear repositorios, Hello world
